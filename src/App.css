@@ -1,0 +1,13 @@
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+@keyframes slotMachine {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-100%);
+  }
+}
